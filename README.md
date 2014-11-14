@@ -1,4 +1,4 @@
-# Foo
+# ember-cli-nested-route-example
 
 This README outlines the details of collaborating on this Ember application.
 
